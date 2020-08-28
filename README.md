@@ -1,2 +1,2 @@
-# synchronousBallMovement
-Ball moving synchronously
+# Class 35
+Synchronous UI.
